@@ -10,7 +10,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 #### REQUIRED 
 - [x] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
 - [x] Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
-- [ ] Allow video posts to be played in full-screen using the YouTubePlayerView.
+- [x] Allow video posts to be played in full-screen using the YouTubePlayerView.
 
 #### BONUS
 - [ ] Views should be responsive for both landscape/portrait mode.
